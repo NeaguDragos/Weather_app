@@ -1,0 +1,21 @@
+.card-container {
+    text-align: center;
+    border: 1px solid #bebebe;
+    color: #0a58ca;
+    box-shadow: 0px 0px 10px black;
+    width: fit-content;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 25px;
+    min-height: 400px;
+}
+
+.card-city {
+    font-weight: 600;
+    font-size: 18px;
+    margin: 0;
+}
+
+.search-button {
+    box-shadow: 0px 0px 5px white;
+}
